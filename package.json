@@ -1,0 +1,29 @@
+{
+  "name": "software-eng_team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salas4969/Software-Eng_Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salas4969/Software-Eng_Team-Generator/issues"
+  },
+  "homepage": "https://github.com/Salas4969/Software-Eng_Team-Generator#readme"
+}
